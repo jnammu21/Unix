@@ -1,0 +1,32 @@
+1.list all the patients records registered after the id number 1015
+2.output the number of patients admitted in DexterPLus Hospital in different locations
+3.print the list of patients that are prescribed by doctor Clark
+4.output the number of patients admitted in AllDocs Hospital
+5.print the list of patients that are prescribed by doctor Annie
+6.list of all patients from bridgeport
+7.Total number of patients residing in the budh bhawan
+8.how big is the hospital(No of hospitals)
+9.number of patients alloted in the hospital
+10.total area of the hospital(Addition of all rooms area) 
+11.number of pharmacies that are established 
+
+
+6.NUmber of cunjested rooms in the hospital(Area per beds divison)
+7.buidling with more pharmacies
+8.how big is the hospital
+9.number of patients alloted in the hospital
+10.most succesful doctor based on number of operations done
+11.Number of patients who have same name as one of the doctors in the hospital
+12.totaal area of the hospital(Addition of all rooms area)
+13.NUmber of buildings
+14.number of pharmacies that are established
+15.number of doctors
+16.number of rooms
+17.report of whole hospital database
+18.report of all patients from bridgeport
+19.report of all prescriptions that are generated
+20.report of all students from bridgeport and are admitted under doctor abuzneid
+22.report on the rooms to remodel --- most conjusted rooms in the hospital
+23.report on the lazy doctor to be taken care of
+24.report on the pharmacies and their locations
+
